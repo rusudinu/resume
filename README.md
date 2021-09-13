@@ -1,2 +1,2 @@
 This is the resume of Rusu Dinu-Stefan.  
-You can download it from [here](https://raw.githubusercontent.com/rusudinu/resume/main/Resume%20Rusu%20Dinu%20Stefan%20Full.pdf).
+You can download it from [here](https://raw.githubusercontent.com/rusudinu/resume/main/Rusu%20Dinu%20Stefan%20resume%20full.pdf), or the 1-page version from [here](https://raw.githubusercontent.com/rusudinu/resume/main/Rusu%20Dinu%20Stefan%20resume%201%20page.pdf).
